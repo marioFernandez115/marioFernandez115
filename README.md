@@ -36,6 +36,10 @@
 </p>
 
 ---
+## 🚀 Proyectos Destacados
+
+- [🎮 NextPlay ](https://mariofernandez115.github.io/NextPlay/)  
+  *Web Relacionada con la compra de VideoJuegos y perifericos Online*  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -53,7 +57,10 @@
 </p>
 
 ---
-
+## 🌍 Idiomas  
+  - 🇪🇸 Español (Nativo)  
+  - 🇬🇧 Inglés (Intermedio)
+    
 # 📞 Contact Me:
 
 <p align="center">
