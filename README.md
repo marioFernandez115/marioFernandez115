@@ -38,7 +38,7 @@
 ---
 ## 🚀 Proyectos Destacados
 
-- [🏓 Web Tenis de Mesa Rivas](https://github.com/marioFernandez115/webTenisMesa)  
+- [🏓 Web Tenis de Mesa Rivas](https://github.com/marioFernandez115/webTenisMesaFinal)  
   *Plataforma de gestión y comunicación para el Club de Tenis de Mesa Rivas.*
 
 - [🎮 NextPlay](https://mariofernandez115.github.io/NextPlay/)  
