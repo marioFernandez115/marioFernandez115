@@ -41,7 +41,7 @@
 - [🏓 Web Tenis de Mesa Rivas](https://github.com/marioFernandez115/webTenisMesaFinal)  
   *Plataforma de gestión y comunicación para el Club de Tenis de Mesa Rivas.*
 
-- [🎮 NextPlay](https://mariofernandez115.github.io/NextPlay/)  
+- [🎮 NextPlay](https://mariofernandez115.github.io/NextPlay-master-main/)  
   *Web relacionada con la compra de videojuegos y periféricos online.*
 
 ### ⚙️ &nbsp;GitHub Analytics
