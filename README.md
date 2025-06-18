@@ -38,8 +38,11 @@
 ---
 ## 🚀 Proyectos Destacados
 
-- [🎮 NextPlay ](https://mariofernandez115.github.io/NextPlay/)  
-  *Web Relacionada con la compra de VideoJuegos y perifericos Online*  
+- [🏓 Web Tenis de Mesa Rivas](https://github.com/marioFernandez115/webTenisMesa)  
+  *Plataforma de gestión y comunicación para el Club de Tenis de Mesa Rivas.*
+
+- [🎮 NextPlay](https://mariofernandez115.github.io/NextPlay/)  
+  *Web relacionada con la compra de videojuegos y periféricos online.*
 
 ### ⚙️ &nbsp;GitHub Analytics
 
