@@ -7,7 +7,9 @@
 
 📝 He desempeñado diversos roles en el ámbito: **desarrollador**, **emprendedor**, **programador freelance**... y en el futuro, ¡quién sabe! 😊
 
-📫 **Contacto:** MarioFr28523@gmail.com
+📫 **Contacto Gmail:** MarioFr28523@gmail.com
+
+📫 **Contacto Linkedin:** [MarioFr28523@gmail.com](https://www.linkedin.com/in/mariofernandezrodriguezperfil/)
 
 ---
 
