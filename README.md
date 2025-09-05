@@ -9,7 +9,7 @@
 
 📫 **Contacto Gmail:** MarioFr28523@gmail.com
 
-📫 **Contacto Linkedin:** [MarioFr28523@gmail.com](https://www.linkedin.com/in/mariofernandezrodriguezperfil/)
+📫 **Contacto Linkedin:** [Mario Fernandez Perfil Linkdein ](https://www.linkedin.com/in/mariofernandezrodriguezperfil/)
 
 ---
 
